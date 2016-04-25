@@ -1,4 +1,3 @@
-# algorithms-ruby
+# Algorithms in Ruby
 
-This repository contains implementations of Algorithms and Data Structures in Ruby.
-
+  This repository has some algorithms implemented by me using ruby.
